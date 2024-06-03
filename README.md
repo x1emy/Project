@@ -1,2 +1,2 @@
-# Project-python-django-
+# Project
 site about me:)
