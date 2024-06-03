@@ -1,2 +1,2 @@
 # Project
-site about me:)
+site about my way
